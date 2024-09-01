@@ -1,1 +1,1 @@
-# PRODIGY_AD_03
+This stopwatch app was developed during my internship at Prodigy Infotech. The project provided a valuable opportunity to enhance my skills in Flutter and mobile app development. The aim was to create a functional and user-friendly stopwatch with essential timing features, showcasing my ability to build practical applications.
